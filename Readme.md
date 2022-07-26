@@ -4,6 +4,7 @@ La temática se basa en el análisis de precios del mercado inmobiliario sobre p
 
 Se quiere analizar las principales variables que determinan la evolución del mercado inmobiliario, considerando al “precio” como target.
 
+### Dataset: https://drive.google.com/file/d/1J-gF-nlQ2gJqhoyKcq5nyuU-Oki5BTio/view?usp=sharing
 
 # Objetivo (a definir):
 
