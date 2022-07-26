@@ -32,15 +32,18 @@ Idem que el anterior, pero con la superficie cubierta y total en los cuales debe
 
 # Visualización de los datos:
 
+
 ## Tipos de propiedades
 
 ![](Aspose.Words.815cebd1-94a6-400b-a9be-fa8421002e34.002.png)
 
 Analisis de correlacion![](Aspose.Words.815cebd1-94a6-400b-a9be-fa8421002e34.003.png)
 
+
 ## Rango de precios por tipo de propiedad
 
 ![](Aspose.Words.815cebd1-94a6-400b-a9be-fa8421002e34.004.png)
+
 
 ## Análisis de relación
 
